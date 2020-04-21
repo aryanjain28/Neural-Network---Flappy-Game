@@ -9,7 +9,7 @@ pygame.init()
 GEN = 0
 WIDTH, HEIGHT = 600, 800
 GAP = 200
-CLOCK = 100
+CLOCK = 200
 WINDOW = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption('Flappy Bird using Neuro Evolution')
 ANIMATION_TIME = 5
